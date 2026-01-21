@@ -92,7 +92,3 @@ Contributions are welcome! Feel free to:
 ## License
 
 MIT License - feel free to use this project however you'd like!
-
-## Author
-
-Your Name - [GitHub Profile](https://github.com/YOUR_USERNAME)
