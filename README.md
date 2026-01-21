@@ -14,7 +14,7 @@ A simple Python CLI tool to automatically organize files in a directory by their
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/file-organizer.git
+git clone https://github.com/radiating-pumpkin0Zed/file-organizer.git
 cd file-organizer
 ```
 
